@@ -1,4 +1,4 @@
-Ben Thomas
+# Ben Thomas
 
 Marketing systems for open source communities and creative brands.
 
